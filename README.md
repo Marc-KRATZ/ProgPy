@@ -1,3 +1,3 @@
 ProgPy
 
-Quelques programme python
+Quelques programmes python

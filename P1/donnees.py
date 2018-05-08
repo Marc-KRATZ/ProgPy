@@ -5,7 +5,8 @@ utiles au programme pendu"""
 nb_coups = 8
 
 # Nom du fichier stockant les scores
-nom_fichier_scores = "scores.txt"
+nom_fichier_scores = "scores"
+
 
 # Liste des mots du pendu
 liste_mots = [
